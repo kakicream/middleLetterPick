@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "middleLetterPick", "middleLetterPick\middleLetterPick.csproj", "{385C0D68-5413-42A5-B40A-4A628CC1751A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385C0D68-5413-42A5-B40A-4A628CC1751A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{385C0D68-5413-42A5-B40A-4A628CC1751A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{385C0D68-5413-42A5-B40A-4A628CC1751A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{385C0D68-5413-42A5-B40A-4A628CC1751A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369FEC16-702A-4104-BA88-A30DBC294E9A}
+	EndGlobalSection
+EndGlobal
